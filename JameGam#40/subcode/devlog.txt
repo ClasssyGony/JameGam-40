@@ -1,0 +1,7 @@
+Jame Gam #40, 7 day game jam
+
+Day 1,
+	- Added Player Class
+	- Implemented Camera Class that controls the bliting of all sprites
+
+	
